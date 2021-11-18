@@ -3,7 +3,7 @@ Hi everyone!
 
 This is a very simple e-commerce website for a fictitious company called *Phillou* dedicated to the sale of handbags, wallets and technological articles for a general public.
 
-###DEMO:
+### DEMO:
 
 You can refer this link for viewing the frontend:-
 https://mini-project111.github.io/frontend/
