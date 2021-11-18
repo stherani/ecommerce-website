@@ -22,9 +22,9 @@ Basic knowledge of:
 - [Pixabay](https://pixabay.com/es/)
 
 ### Authors 
-sagar bhavsar RA1911042010111  
+Sagar bhavsar RA1911042010111  
 
-sanjay therani RA1911042010080
+Sanjay therani RA1911042010080
 
 ### License
 This project is open-source.
