@@ -1,7 +1,12 @@
 ## Responsive Ecommerce Website :shopping: :open_file_folder:
-Hi everyone! :purple_heart:
+Hi everyone! 
 
 This is a very simple e-commerce website for a fictitious company called *Phillou* dedicated to the sale of handbags, wallets and technological articles for a general public.
+
+*DECLARATION:*
+
+You can refer this link for viewing the frontend:-
+https://mini-project111.github.io/frontend/
 
 ### Requirements
 Basic knowledge of:
@@ -19,11 +24,9 @@ Basic knowledge of:
 - [Pixabay](https://pixabay.com/es/)
 
 ### Authors 
-[Miriali López Melean](https://github.com/Miriali) :woman_technologist:
+sagar bhavsar RA1911042010111
+sanjay therani RA1911042010080
 
 ### License
-This project is open-source feel free to use it as you wish.
+This project is open-source.
 
-### Stay In Touch
-- [Codepen](https://codepen.io/your-work/) 
-- [Twitter](https://twitter.com/miricailopez)
